@@ -16,6 +16,7 @@ namespace WebApplication1.Model
         }
 
         public virtual DbSet<Tasks> Tasks { get; set; }
+        public object Transcription { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

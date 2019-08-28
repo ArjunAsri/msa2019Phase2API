@@ -1,0 +1,17 @@
+C:\Users\ArjunAsri\Desktop\msa2019phase2\WebApplication1\UnitTestProject1UnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ArjunAsri\Desktop\msa2019phase2\WebApplication1\UnitTestProject1UnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ArjunAsri\Desktop\msa2019phase2\WebApplication1\UnitTestProject1UnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ArjunAsri\Desktop\msa2019phase2\WebApplication1\UnitTestProject1UnitTests\bin\Debug\netcoreapp2.2\UnitTestProject1UnitTests.deps.json
+C:\Users\ArjunAsri\Desktop\msa2019phase2\WebApplication1\UnitTestProject1UnitTests\bin\Debug\netcoreapp2.2\UnitTestProject1UnitTests.runtimeconfig.json
+C:\Users\ArjunAsri\Desktop\msa2019phase2\WebApplication1\UnitTestProject1UnitTests\bin\Debug\netcoreapp2.2\UnitTestProject1UnitTests.runtimeconfig.dev.json
+C:\Users\ArjunAsri\Desktop\msa2019phase2\WebApplication1\UnitTestProject1UnitTests\bin\Debug\netcoreapp2.2\UnitTestProject1UnitTests.dll
+C:\Users\ArjunAsri\Desktop\msa2019phase2\WebApplication1\UnitTestProject1UnitTests\bin\Debug\netcoreapp2.2\WebApplication1.dll
+C:\Users\ArjunAsri\Desktop\msa2019phase2\WebApplication1\UnitTestProject1UnitTests\bin\Debug\netcoreapp2.2\WebApplication1.pdb
+C:\Users\ArjunAsri\Desktop\msa2019phase2\WebApplication1\UnitTestProject1UnitTests\obj\Debug\netcoreapp2.2\UnitTestProject1UnitTests.csprojAssemblyReference.cache
+C:\Users\ArjunAsri\Desktop\msa2019phase2\WebApplication1\UnitTestProject1UnitTests\obj\Debug\netcoreapp2.2\UnitTestProject1UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\ArjunAsri\Desktop\msa2019phase2\WebApplication1\UnitTestProject1UnitTests\obj\Debug\netcoreapp2.2\UnitTestProject1UnitTests.AssemblyInfoInputs.cache
+C:\Users\ArjunAsri\Desktop\msa2019phase2\WebApplication1\UnitTestProject1UnitTests\obj\Debug\netcoreapp2.2\UnitTestProject1UnitTests.AssemblyInfo.cs
+C:\Users\ArjunAsri\Desktop\msa2019phase2\WebApplication1\UnitTestProject1UnitTests\obj\Debug\netcoreapp2.2\UnitTestProject1UnitTests.csproj.CopyComplete
+C:\Users\ArjunAsri\Desktop\msa2019phase2\WebApplication1\UnitTestProject1UnitTests\bin\Debug\netcoreapp2.2\UnitTestProject1UnitTests.pdb
+C:\Users\ArjunAsri\Desktop\msa2019phase2\WebApplication1\UnitTestProject1UnitTests\obj\Debug\netcoreapp2.2\UnitTestProject1UnitTests.dll
+C:\Users\ArjunAsri\Desktop\msa2019phase2\WebApplication1\UnitTestProject1UnitTests\obj\Debug\netcoreapp2.2\UnitTestProject1UnitTests.pdb
